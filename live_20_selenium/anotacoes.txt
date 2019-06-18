@@ -1,0 +1,24 @@
+Roteiro
+    - o que é web scraping?
+    - qual o objetivo disso?
+    - o que é selenium?
+    - mapeando google (PO)
+    - CODE
+
+Web Scraping - Raspagem de Dados
+    - São técnicas (automatizadas) de extração de dados da web.(bot)
+    - É tão velho quanto a internet
+        - Web harvesting.
+        - Web data extraction.
+
+Qual o objetivo disso?
+    - Extrair dados de maneira que seja possível estruturar o mesmos. Ou seja,
+    são maneiras de extrair dados públicos (ou não) da web e agregar valor na
+    coleta. Usar dados para algum propósito.
+
+Selenium?
+    - uma maneira de manipular seu browser de maneira que ele simule o 
+    comportamento de uma pessoa. Ou seja, o selenium usa webdrivers para 
+    manipular a interação humano-computador, a tornando automatizada.
+
+ipython -i file.py

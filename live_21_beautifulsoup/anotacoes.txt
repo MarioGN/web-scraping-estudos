@@ -1,0 +1,24 @@
+Roteiro
+    - o que é beatifulsoup?
+    - porque beatifulsoup é legal?
+    - sintaxe básica
+    - CODE
+        - primeiros passos com uma página simples
+        - raspando dados do reclame aqui
+
+O que é Beatifulsoup?
+    - "Desde 2004, tem economizado horas ou dias de trabalho de desenvolvedores
+    em projetos de raspagem dados."
+
+    - 3 coisas que tornam o BS4 poderoso:
+        - métodos simples e pythonicos para parsear árvores (html, xml).
+        - converte tudo para unicode (UTF-8).
+        - permite diferentes ferramentas para parsear(lxml, html5lib, 
+        http.parse).
+    
+Por que o Beatifulsoup é legal?
+    - encontra elementos por tag (a, b, p, div)
+    - combina os dados agrupados com tags(classes, por exemplo)
+    - retorna buscas em novos objetos BS4
+    - corrige falhas html/xml
+    - transformas strings em objetos (ojb.title)

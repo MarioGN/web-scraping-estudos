@@ -1,0 +1,27 @@
+Roteiro
+    - o que são requests?
+    - temos várias opções
+    - porque escolhi requests
+    - uma olhada na sintaxe básica dos requests
+    - CODE
+
+O que são requests?
+    Sempre que nosso navegador se comunica com o servidor web a comunicação
+    é feita usando HTTP que funciona em uma estrutura solicitação-resposta
+    (request-response) e requisições são feitas usando verbos e as respostas
+    são via código.
+
+    Verbos
+    GET -> pede recurso ao servidor
+    HEAD -> obtém só o cabeçãlho do recurso (metadados)
+    POST -> envia dados para o servidor processar
+    PUT -> cria ou edita algum recurso
+    DELETE -> solicita remoção de recurso
+
+
+    Códigos de Retorno
+    1XX -> indica que a solicitação foi recebida mais ainda será processada.
+    2XX -> indica requisição bem sucedida.
+    3XX -> informa que ação adicional deve ser tomada para completar a requisição.
+    4XX -> indica uma requsição que não pode ser atendida.
+    5XX -> indica erro no servidor ao cumprir requisição válida.
